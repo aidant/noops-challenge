@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "target": "esnext",
+    "declaration": true,
+    "removeComments": true,
+    "module": "commonjs"
+  }
+}
